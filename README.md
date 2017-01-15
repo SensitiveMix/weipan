@@ -10,7 +10,7 @@
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 ## Installation
 ```bash
-yarn add https://github.com/SensitiveJ/weipan
+yarn add https://github.com/SensitiveMix/weipan
 ```
 
 ## Usage
